@@ -6,11 +6,13 @@
 
 ---
 
-### Why
+![Garbage people](/assets/IMG_1641.PNG)
 
-- Protect you
-- Protect your client
-- Give you a way out when things go wrong
+
+Note:
+
+- Humans can be garbage, esp when money is involved. Most humans aren't, but
+  need to prepare
 
 ---
 
