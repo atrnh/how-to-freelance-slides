@@ -6,7 +6,7 @@
 
 ---
 
----?image=assets/IMG_1641.PNG&size=contain
+---?image=assets/IMG_1641.PNG&size=auto 90%
 
 Note:
 
