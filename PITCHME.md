@@ -4,9 +4,7 @@
 
 ## Why Contracts?
 
----
-
----?image=assets/IMG_1641.PNG&size=auto 90%
+---?image=assets/IMG_1641.png&size=auto 100%
 
 Note:
 
