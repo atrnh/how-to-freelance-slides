@@ -6,7 +6,7 @@
 
 ---
 
----?image=assets/IMG_1641.png&size=contain
+---?image=assets/IMG_1641.PNG&size=contain
 
 Note:
 
