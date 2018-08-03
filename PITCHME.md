@@ -6,8 +6,7 @@
 
 ---
 
-![Garbage people](/assets/IMG_1641.PNG)
-
+---?image=assets/IMG_1641.png&size=contain
 
 Note:
 
